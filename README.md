@@ -1,1 +1,2 @@
-# fyp
+# CNN VARIANTS FOR MELANOMA DETCTION AND CLASSIFICATION
+This repository contains the implementation of 10 Convolutional Neural Network (CNN) variants developed as part of my Final Year Project (FYP) on AI-based skin cancer detection. The goal of the project is to leverage different CNN architectures to accurately detect and classify skin cancer from images, enhancing early diagnosis and treatment strategies.
